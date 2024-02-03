@@ -30,7 +30,8 @@ I love to code !!
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    <img src="![image](https://github.com/Priyanshu-nv/Priyanshu-nv/assets/133123493/0595bb10-ccd9-42a4-aeda-b75d08d6ee33)
+" width="32" height="32" />
     </picture>
     </a>
       <a href="https://www.linkedin.com/in/Priyanshu Navidolatwala" target="_blank" rel="noreferrer">
