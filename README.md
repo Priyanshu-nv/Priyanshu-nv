@@ -7,7 +7,7 @@ Hi there ! My name is Priyanshu Navidolatwala.
 
 Frontend Developer
 ------------------
-
+  
 I love to code !!  
 
 * 🌍 I'm based in Surat, Gujarat
